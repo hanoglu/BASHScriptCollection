@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Yusuf Hanğlu
+# Author: Yusuf Hanoğlu
 
 suan=$(xfconf-query -c xfce4-panel -p /panels/panel-0/autohide-behavior)
 
